@@ -6,6 +6,8 @@ public class Staffs extends Person {
     }
 
     public void schoolWork(){
-        System.out.println("I work in the School");
+        System.out.println("Hello, My Name is " + name);
+        System.out.println("My ID number is " + id);
+        System.out.println("I am a/an " + designation);
     }
 }
