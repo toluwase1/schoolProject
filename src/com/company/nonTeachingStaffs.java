@@ -9,7 +9,6 @@ public class nonTeachingStaffs extends Staffs{
     public void introduceYourself(){
         System.out.println("Hello, My Name is " + name);
         System.out.println("My ID number is " + id);
-        System.out.println("I am a/an " + designation);
         String adminJob = "Accountant";
         System.out.println("I am an "+ adminJob);
     }
